@@ -1,6 +1,3 @@
-# digital_inclusion_cards
-A deck of cards to be used for digital inclusion research projects
-
 ## What are digital inclusion cards?
 
 Each card is the name of a type of activity we do online. These cards are designed for in-person engagement. You could use them for community facilitation, research, an explorative game - it’s up to you. 
@@ -25,7 +22,7 @@ We would love to be inspired by how you use the cards. Find us on LinkedIn, Inst
 
 You’ll need access to a printer and some scissors.
 
-- Download the pdf file
+- Download the pdf file. You choose the coloured or he monochrome version.
 - Print onto A4 paper (make sure your printer settings are set to ‘Fit to paper’ and ‘One sided’)
 - Cut out each card
 - If you want to laminate them, you can
